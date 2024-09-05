@@ -1,0 +1,7 @@
+scikit-learn==1.5.1
+joblib==1.4.2
+numpy==2.1.1
+pandas==2.2.2
+pytest==8.3.2
+pytest-cov==5.0.0
+inference-schema[numpy-support]==1.8
