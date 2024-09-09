@@ -17,7 +17,6 @@
 name: aml_training_env_zkhoo
 dependencies:
   # The python interpreter version.
-  # Currently Azure ML Workbench only supports 3.5.2 and later.
   - python=3.11.0
   - pip=22.2.0
 
