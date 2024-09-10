@@ -4,8 +4,7 @@ import json
 test_sample = json.dumps({
     'data': [
         [2013, 8, 3000.0, 3200.0], 
-        [2013, 9, 3200.0, 3000.0],  
-        [2013, 10, 3100.0, 3200.0]  
+        [2013, 9, 3200.0, 3000.0]  
     ]
     })
 test_sample = str(test_sample)
